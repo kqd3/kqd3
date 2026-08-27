@@ -4,4 +4,6 @@
 
 - Currently, my GitHub showcases front-end web development projects, including personal work and others that fulfill the curriculum of freeCodeCamp and The Odin Project.
 
-**Portfolio:** [k4d3.com](https://k4d3.com/)
+Portfolio:
+
+[k4d3.com](https://k4d3.com/)
